@@ -96,10 +96,12 @@ This project is intended for educational and research purposes only. Please refe
 
 ## 👨‍💻 Author
 
-* *Yash Agarwal*
-* *https://github.com/yashagarwal16/Flight_Price_Prediction*
+- **Yash Agarwal**
+- [GitHub](https://github.com/yashagarwal16/Flight_Price_Prediction)
+
 
 ```
+
 
 ---
 
