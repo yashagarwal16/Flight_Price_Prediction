@@ -32,17 +32,15 @@ The dataset used includes details like:
 1. **Clone the repository** or download the notebook.
 
 2. **Install required packages**:
-   ```bash
+   
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost
-````
+
 
 3. **Launch the notebook using Jupyter**:
 
-   ```bash
+   
    jupyter notebook FlightPrediction.ipynb
-   ```
-
----
+  
 
 ## 🧪 Model Pipeline Overview
 
@@ -98,18 +96,3 @@ This project is intended for educational and research purposes only. Please refe
 
 - **Yash Agarwal**
 - [GitHub](https://github.com/yashagarwal16/Flight_Price_Prediction)
-
-
-```
-
-
----
-
-Let me know if you’d like me to:
-
-- Generate this as a downloadable `README.md` file
-- Insert specific dataset links or author details
-- Help you deploy the model on a web interface (Flask/Streamlit)
-
-Would you like the `.md` file now?
-```
